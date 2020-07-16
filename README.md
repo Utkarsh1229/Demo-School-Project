@@ -1,1 +1,1 @@
-# Demo-School-Project
+# Static Website of a school
